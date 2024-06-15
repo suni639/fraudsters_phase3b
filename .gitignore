@@ -1,7 +1,12 @@
+# dataset
+global_test_set.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+.vscode/
 
 # C extensions
 *.so
